@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "curtains",
+  "base_artist": "君島大空",
+  "createdAt": "2026-02-13T22:38:11.187254Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Curtains Close",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Curtains_Close_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Curtains Up",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Curtains_Up_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Curtains Up",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Curtains_Up_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Encore (Curtains)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_Encore_(Curtains)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Curtains",
+      "artist": "Lil Wayne feat. Boo",
+      "has_synced": true,
+      "path": "select/05_Curtains_Lil_Wayne_feat._Boo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Curtains (Feat. Boo)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/06_Curtains_(Feat._Boo)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glass Curtains",
+      "artist": "Opal feat. With3r & Loveboy",
+      "has_synced": true,
+      "path": "select/07_Glass_Curtains_Opal_feat._With3r_&_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maybach Curtains (feat. Nas, John Legend & Rick Ross)",
+      "artist": "Meek Mill feat. John Legend, Nas & Rick Ross",
+      "has_synced": true,
+      "path": "select/08_Maybach_Curtains_(feat._Nas,_John_Legend_&_Rick_Ross)_Meek_Mill_feat._John_Legend,_Nas_&_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maybach Curtains (Feat. Nas, John Legend, Rick Ross)",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/09_Maybach_Curtains_(Feat._Nas,_John_Legend,_Rick_Ross)_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Curtains",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/10_Black_Curtains_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Curtains Close (skit)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/11_Curtains_Close_(skit)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Encore \u0000 (Curtains)",
+      "artist": "Eminem feat. Dr. Dre & 50 Cent",
+      "has_synced": true,
+      "path": "select/12_Encore_\u0000_(Curtains)_Eminem_feat._Dr._Dre_&_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Curtain's Moon",
+      "artist": "Ducktails",
+      "has_synced": false,
+      "path": "select/13_The_Curtain's_Moon_Ducktails.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pull the Curtains",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/14_Pull_the_Curtains_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Absolutely Curtains",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/15_Absolutely_Curtains_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Curtains",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/16_Curtains_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Curtains (Broad Mix)",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/17_Curtains_(Broad_Mix)_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "curtains",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_curtains_君島大空.txt"
+    }
+  ]
+}
